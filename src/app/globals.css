@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.container {
+    text-align: center;
+  }
+  .container-item {
+    border: 2px solid rgb(36, 202, 183);
+    margin-top: 15px;
+  }
+  h1 {
+    font-size: 25px;
+  }
